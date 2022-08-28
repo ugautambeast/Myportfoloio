@@ -106,13 +106,15 @@ min-height: 400px;
 flex-basis: 100%;
 }
 
-.my-project {
-    background-image: url(../assets/horiseon.jpg);
-    min-height: 400px;
-    width: 70%;
+.flex-container {
+    background-image: url(./Screenshot\ \(4\).png);
+    height: 26rem;
+    width: 102vh;
 }
 
-
+div a {
+    color: black;
+}
 
 
 
